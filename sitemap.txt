@@ -1,0 +1,4 @@
+http://example.com/tags/index.html
+http://example.com/about/index.html
+http://example.com/2023/06/29/hello-world/
+http://example.com/
